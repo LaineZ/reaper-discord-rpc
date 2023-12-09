@@ -13,5 +13,5 @@ reaper-low = { git = "https://github.com/helgoboss/reaper-rs.git", branch = "mas
 reaper-macros = { git = "https://github.com/helgoboss/reaper-rs.git", branch = "master" }
 discord-rich-presence = "0.2.3"
 [lib]
-name = "reaper_rs_discord_rich_presence"
+name = "discord_rich_presence"
 crate-type = ["cdylib"]
