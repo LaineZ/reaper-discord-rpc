@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="207" height="240" viewBox="0 0 207 240">
+  <defs>
+    <style>
+      .a {
+        fill: #cfdf00;
+      }
+    </style>
+  </defs>
+  <title>transport-pause</title>
+  <rect class="a" width="94" height="240"/>
+  <rect class="a" x="113" width="94" height="240"/>
+</svg>

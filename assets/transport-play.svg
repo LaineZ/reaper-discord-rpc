@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="241" viewBox="0 0 210 241">
+  <defs>
+    <style>
+      .a {
+        fill: #01ff82;
+      }
+    </style>
+  </defs>
+  <title>transport-play</title>
+  <polygon class="a" points="0 241 0 0 210 120.5 0 241"/>
+</svg>
